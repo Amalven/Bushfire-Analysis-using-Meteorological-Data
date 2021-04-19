@@ -15,8 +15,8 @@ Done initial feature selection by finding out the correlation between attributes
 ## Model Development
 Creating baseline models for further feature selection. Then using different approaches like step function and subset regression approach to get more clarity of the selected features.
 
-# Model Comparison
+## Model Comparison
 We have compared Linear Regression, Random Forest, and SVM with the features that we got from Model Development.
 
-# Variable Identification and Explanation
+## Variable Identification and Explanation
 We have found out the main variables that are responsible for fires with the help of EDA, Baseline Models, and the Subnet Regression Approach.
